@@ -1,0 +1,41 @@
+
+@font-face {
+    font-family: 'Open_Sans';
+    src: url('2204-webfont.eot');
+    src: url('2204-webfont.eot?#iefix') format('embedded-opentype'),
+         url('2204-webfont.woff2') format('woff2'),
+         url('2204-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open_Sans';
+    src: url('2206-webfont.eot');
+    src: url('2206-webfont.eot?#iefix') format('embedded-opentype'),
+         url('2206-webfont.woff2') format('woff2'),
+         url('2206-webfont.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open_Sans';
+    src: url('11549-webfont.eot');
+    src: url('11549-webfont.eot?#iefix') format('embedded-opentype'),
+         url('11549-webfont.woff2') format('woff2'),
+         url('11549-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open_Sans';
+    src: url('2212-webfont.eot');
+    src: url('2212-webfont.eot?#iefix') format('embedded-opentype'),
+         url('2212-webfont.woff2') format('woff2'),
+         url('2212-webfont.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+
+}
