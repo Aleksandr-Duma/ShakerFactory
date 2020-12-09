@@ -135,7 +135,7 @@ body {
   color: #325479;
   font-size: 16px;
   font-weight: 600;
-  padding-top: 18px;
+  padding: 18px 10px 0 10px;
   margin-bottom: 15px;
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
@@ -468,7 +468,7 @@ body {
   color: #325479;
   font-size: 16px;
   font-weight: 600;
-  padding-top: 18px;
+  padding: 18px 10px 0 10px;
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
   margin-bottom: 40px;
